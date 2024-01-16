@@ -8,3 +8,8 @@ Awesome Diffusion Models: A Curated List of Generative Diffusion Models in Compu
 This repository, called **Awesome Diffusion Models**, contains a collection of resources and papers on **Diffusion Models** in **Computer Vision**. 
 
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-Diffusion-Models/issues/new)!* 
+
+**Denoising Diffusion Probabilistic Models** \
+*Jonathan Ho, Ajay Jain, Pieter Abbeel* \
+NeurIPS 2020, [[Paper](https://arxiv.org/pdf/2006.11239.pdf)] [[Gitlab](https://github.com/hojonathanho/diffusion)] [[Webpage](https://hojonathanho.github.io/diffusion/)] \
+16 Dec 2020
